@@ -2,7 +2,7 @@
   $serverName = "testdbtp043725.windows.net";
 
   $connectionOptions = array(
-  "Database" => "testphpwithdbtp043725",
+  "Database" => "testdbtp043725",
   "Uid" => "apuadmin",
   "PWD" => "Cay_008020");
 
