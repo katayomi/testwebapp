@@ -1,5 +1,5 @@
 <?php
-  $serverName = "testdbtp043725.database.windows.net";
+  $serverName = tcp:"testdbtp043725.database.windows.net,1433";
 
   $connectionOptions = array(
   "Database" => "testdbtp043725",
